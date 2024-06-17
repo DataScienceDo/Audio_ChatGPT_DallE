@@ -1,0 +1,8 @@
+pydub 
+requests
+openai==0.28.0
+gradio_client
+simpleaudio
+fastapi 
+uvicorn
+python-dotenv

@@ -1,2 +1,2 @@
-# Audio_ChatGPT_DallE
-Audio_ChatGPT_DallE
+# Audio_ChatGPT_Dall_E
+Audio_ChatGPT_Dall_E
