@@ -19,3 +19,4 @@ Press and hold the 'Record' button to capture a voice message containing a quest
 3. Don`t foget about your Token fron Hugging Face and two APIs by OpenAI (one for ChatGPT and  another for Dall_E) 
 
 '''
+# PS.: Texts in HTML and JS used RU language, please change it according your request
